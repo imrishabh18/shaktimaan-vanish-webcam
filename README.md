@@ -3,6 +3,8 @@
 Point your index finger up. Your silhouette becomes a spinning whirlwind and flies out of frame.
 Video is processed locally; nothing is recorded or uploaded.
 
+![Shaktiman vanish demo in Google Meet](assets/shaktiman-demo.gif)
+
 ## Start
 
 1. Install [Python 3.10+](https://www.python.org/downloads/), then [download and extract this repo](https://github.com/imrishabh18/shaktiman-vanish-webcam/archive/refs/heads/main.zip).
