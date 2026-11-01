@@ -10,6 +10,8 @@ Video is processed locally; nothing is recorded or uploaded.
 3. Keep the camera still. **Step completely out of view** until the preview says **BACKGROUND READY — STEP BACK IN**.
 4. Return, point one index finger upward with the other fingers curled, and hold for half a second. Either hand works.
 
+**To reappear:** click the **Shaktiman webcam preview window**, then press **`R`**. Lower your finger before triggering the effect again.
+
 **Controls:** `R` reappear · `V` test the effect · `Space` recapture background · `F` fullscreen · `Q` quit.
 
 ## Google Meet, Zoom, and other calls
